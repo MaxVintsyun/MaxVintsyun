@@ -4,8 +4,8 @@
 
 На данный момент владею следующим стеком:
 - HTML;
-- CSS
-- JS
+- CSS;
+- JS;
 - React;
 - Webpack;
 - Node.js;
